@@ -1,0 +1,12 @@
+main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.topbar {
+  display: flex;
+  height: 48px;
+  background-color: black;
+}
